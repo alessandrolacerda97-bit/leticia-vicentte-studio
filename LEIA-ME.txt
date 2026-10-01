@@ -1,0 +1,10 @@
+LETÍCIA VICENTTE — LANDING PAGE
+
+Os arquivos completos estão na pasta site.
+Publique o conteúdo dessa pasta em uma hospedagem de sites estáticos.
+A página inicial é index.html. Preserve style.css, app.js e assets.
+Não exige banco de dados nem chave de API.
+As fontes são carregadas do Google Fonts; há fontes locais alternativas.
+Os contatos direcionam ao Instagram. Nenhuma mensagem é enviada automaticamente.
+Cursos: conteúdo, formato, datas, preços e certificações devem ser confirmados com o estúdio antes de detalhá-los.
+O pacote não inclui configurações nem credenciais de hospedagem.
